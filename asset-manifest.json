@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Available/static/css/main.75d60412.css",
+    "main.js": "/Available/static/js/main.e2ba2d56.js",
+    "static/media/Logo.svg": "/Available/static/media/Logo.ab601982120063ece84b60d2d8ee6e41.svg",
+    "static/media/why.svg": "/Available/static/media/why.609b67de5996df22b9c107a9c6848624.svg",
+    "static/media/civil.svg": "/Available/static/media/civil.cf0acc48a88253fbb667f4bdcbf32aaa.svg",
+    "static/media/aboutus.svg": "/Available/static/media/aboutus.9c69b90da6f340245be2be5e1ddf1257.svg",
+    "static/media/print.jpg": "/Available/static/media/print.6dee8f1ba7dfb143f109.jpg",
+    "static/media/project.jpg": "/Available/static/media/project.bc289523492682812869.jpg",
+    "static/media/civil-engineers.jpg": "/Available/static/media/civil-engineers.71c2f2c6c18139613a68.jpg",
+    "static/media/back.jpg": "/Available/static/media/back.532a8b16a8bc8293771d.jpg",
+    "static/media/revicons.eot": "/Available/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Available/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/arrow.svg": "/Available/static/media/arrow.48dcbe1f0610166f2bdaecaf3145135a.svg",
+    "static/media/revicons.woff": "/Available/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Available/index.html",
+    "main.75d60412.css.map": "/Available/static/css/main.75d60412.css.map",
+    "main.e2ba2d56.js.map": "/Available/static/js/main.e2ba2d56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75d60412.css",
+    "static/js/main.e2ba2d56.js"
+  ]
+}
