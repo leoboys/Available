@@ -1,0 +1,86 @@
+.home-body {
+  background-image: url(./back.jpg);
+  height: 100vh;
+}
+
+body {
+  margin: 0% !important;
+  padding: 0% !important;
+}
+
+.logo {
+  padding-top: 10px;
+  height: 10vmin;
+  width: 20vmin;
+  pointer-events: none;
+}
+
+.box1 {
+  border-radius: 20px;
+  /* box-shadow: 2px 1px gray; */
+  align-self: auto;
+  margin-top: 5%;
+  height: 350px;
+  /* background-color: ivory; */
+}
+
+.square1 {
+  border-radius: 20px 0px 20px 0px;
+  width: 250px;
+  height: 250px;
+  border: 2px black;
+  background-image: url(./project.jpg);
+  margin: 0%;
+}
+
+.square2 {
+  border-radius: 20px 0px 20px 0px;
+  width: 250px;
+  height: 250px;
+  border: 2px black;
+  background-image: url(./civil-engineers.jpg);
+}
+.square3 {
+  border-radius: 20px 0px 20px 0px;
+  width: 250px;
+  height: 250px;
+  border: 2px black;
+  background-image: url(./print.jpg);
+}
+
+.hide {
+  margin-top: 0%;
+  /* height: 100px; */
+  background-color: goldenrod;
+  color: azure;
+  font-weight: bold;
+  text-shadow: 1px 1px 4px black;
+  display: block;
+}
+.card {
+  transition: all 3s;
+  width: 250px;
+  background-color: transparent;
+  box-shadow: 4px 2px 8px rgba(241, 241, 155, 0.705);
+}
+
+.card:hover + .hide {
+  display: block;
+}
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .logo {
+    animation: App-logo-spin infinite 40s linear;
+  }
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
